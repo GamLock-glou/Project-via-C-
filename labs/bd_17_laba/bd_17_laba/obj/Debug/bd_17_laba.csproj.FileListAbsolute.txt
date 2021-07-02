@@ -1,0 +1,10 @@
+D:\Projects in C#\labs\bd_17_laba\bd_17_laba\bin\Debug\bd_17_laba.exe.config
+D:\Projects in C#\labs\bd_17_laba\bd_17_laba\bin\Debug\bd_17_laba.exe
+D:\Projects in C#\labs\bd_17_laba\bd_17_laba\bin\Debug\bd_17_laba.pdb
+D:\Projects in C#\labs\bd_17_laba\bd_17_laba\obj\Debug\bd_17_laba.csprojAssemblyReference.cache
+D:\Projects in C#\labs\bd_17_laba\bd_17_laba\obj\Debug\bd_17_laba.Form1.resources
+D:\Projects in C#\labs\bd_17_laba\bd_17_laba\obj\Debug\bd_17_laba.Properties.Resources.resources
+D:\Projects in C#\labs\bd_17_laba\bd_17_laba\obj\Debug\bd_17_laba.csproj.GenerateResource.cache
+D:\Projects in C#\labs\bd_17_laba\bd_17_laba\obj\Debug\bd_17_laba.csproj.CoreCompileInputs.cache
+D:\Projects in C#\labs\bd_17_laba\bd_17_laba\obj\Debug\bd_17_laba.exe
+D:\Projects in C#\labs\bd_17_laba\bd_17_laba\obj\Debug\bd_17_laba.pdb
