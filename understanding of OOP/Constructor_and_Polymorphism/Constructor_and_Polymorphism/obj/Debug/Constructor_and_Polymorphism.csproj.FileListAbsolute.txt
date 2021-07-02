@@ -1,0 +1,7 @@
+D:\Projects in C#\understanding of OOP\Constructor_and_Polymorphism\Constructor_and_Polymorphism\bin\Debug\Constructor_and_Polymorphism.exe.config
+D:\Projects in C#\understanding of OOP\Constructor_and_Polymorphism\Constructor_and_Polymorphism\bin\Debug\Constructor_and_Polymorphism.exe
+D:\Projects in C#\understanding of OOP\Constructor_and_Polymorphism\Constructor_and_Polymorphism\bin\Debug\Constructor_and_Polymorphism.pdb
+D:\Projects in C#\understanding of OOP\Constructor_and_Polymorphism\Constructor_and_Polymorphism\obj\Debug\Constructor_and_Polymorphism.csprojAssemblyReference.cache
+D:\Projects in C#\understanding of OOP\Constructor_and_Polymorphism\Constructor_and_Polymorphism\obj\Debug\Constructor_and_Polymorphism.csproj.CoreCompileInputs.cache
+D:\Projects in C#\understanding of OOP\Constructor_and_Polymorphism\Constructor_and_Polymorphism\obj\Debug\Constructor_and_Polymorphism.exe
+D:\Projects in C#\understanding of OOP\Constructor_and_Polymorphism\Constructor_and_Polymorphism\obj\Debug\Constructor_and_Polymorphism.pdb
