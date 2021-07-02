@@ -1,0 +1,7 @@
+D:\Projects in C#\patern adapter\patern adapter\bin\Debug\patern adapter.exe.config
+D:\Projects in C#\patern adapter\patern adapter\bin\Debug\patern adapter.exe
+D:\Projects in C#\patern adapter\patern adapter\bin\Debug\patern adapter.pdb
+D:\Projects in C#\patern adapter\patern adapter\obj\Debug\patern adapter.csprojAssemblyReference.cache
+D:\Projects in C#\patern adapter\patern adapter\obj\Debug\patern adapter.csproj.CoreCompileInputs.cache
+D:\Projects in C#\patern adapter\patern adapter\obj\Debug\patern adapter.exe
+D:\Projects in C#\patern adapter\patern adapter\obj\Debug\patern adapter.pdb
