@@ -1,0 +1,27 @@
+.nav {
+    display: flex;
+    justify-content: center;
+}
+
+.item a{
+    text-decoration: none;
+    color: teal;
+}
+
+.item a:active{
+    text-decoration: none;
+    color: rgb(9, 77, 77);
+}
+
+.item a:hover{
+    text-decoration: underline coral;
+}
+
+.link {
+    padding: 0.5rem;
+}
+
+.item {
+    padding: 0.5rem;
+}
+
